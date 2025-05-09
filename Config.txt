@@ -1,8 +1,8 @@
 Agregar nombre completo al archivo config.txt.
 Javier Eduardo Lara García 
 
-
-
+Agregar número de carnet en rama DEV.
+CARNET:2400345
 
 
 
